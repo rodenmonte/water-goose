@@ -11,12 +11,6 @@
     margin-right: auto;
 }
 
-.logo img{
-    margin-top: 350px;
-}
-
-
-
 #foot {
 
 }

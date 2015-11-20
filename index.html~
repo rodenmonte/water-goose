@@ -7,7 +7,7 @@
 </head>
 <body>
 
-        <img class="logo" src="watergoose.png" alt="logo" style="margin-top:300px">
+        <img class="logo" src="watergoose.png" alt="logo" style="margin-top:350px">
         <input class="logo" size="35">
         <br>
         <div class="logo" style="text-align: center">
